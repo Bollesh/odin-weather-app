@@ -1,1 +1,1 @@
-# React Template
+# Odin Weather App
